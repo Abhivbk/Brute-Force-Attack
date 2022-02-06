@@ -1,5 +1,4 @@
 import random
-from types import NoneType
 import pyautogui
 
 guess = "abcdefghijklmnopqrstuvwxyz1234567890"
